@@ -1,4 +1,4 @@
-<h2 align="center">정도현 (@ddark)</h2>
+<h3 align="center">정도현 (@ddark)</h3>
 <p align="center">🎓 고등학생 (인창고등학교 재학중)
 <br />
 🌐 웹 개발자 지망생</p>
@@ -14,10 +14,23 @@
 
 ## Technical stacks 🍱
 
-- Node.js - React - Vue - Express
-- PHP - Laravel - CodeIgniter - CakePHP
-- DBMS - MariaDB (MySQL) - MongoDB - AWS DynamoDB
-- Server - Linux (Ubuntu) - AWS Lambda - Apache - Nginx
+- Node.js
+  - React
+  - Vue
+  - Express
+- PHP
+  - Laravel
+  - CodeIgniter
+  - CakePHP
+- DBMS
+  - MariaDB (MySQL)
+  - MongoDB
+  - AWS DynamoDB
+- Server
+  - Linux (Ubuntu)
+  - AWS Lambda
+  - Apache
+  - Nginx
 
 ## My Projects 👨‍💻
 
@@ -47,4 +60,3 @@
 ## Check my activity 🤨
 
 ![ddarkr's GitHub activity](https://ghchart.rshah.org/ddarkr)
-Thanks to <https://ghchart.rshah.org>
