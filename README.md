@@ -15,9 +15,11 @@
 ## Technical stacks 🍱
 
 - Node.js
+  - TypeScript
   - React
-  - Vue
+  - Vue.js
   - Express
+  - Nest.js
 - PHP
   - Laravel
   - CodeIgniter
