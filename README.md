@@ -1,9 +1,7 @@
-<center>
-<h2>정도현 (@ddark)</h2>
-🎓 고등학생 (인창고등학교 재학중)
+<h2 align="center">정도현 (@ddark)</h2>
+<p align="center">🎓 고등학생 (인창고등학교 재학중)
 <br />
-🌐 웹 개발자 지망생
-</center>
+🌐 웹 개발자 지망생</p>
 
 ## Meet anywhere. 👋
 
