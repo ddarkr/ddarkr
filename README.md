@@ -102,4 +102,6 @@
 
 ## Check my activity 🤨
 
-![ddarkr's GitHub activity](https://ghchart.rshah.org/ddarkr)
+GitHub:
+
+[![ddarkr's GitHub activity](https://ghchart.rshah.org/ddarkr)](https://github.com/ddarkr)
