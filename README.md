@@ -34,6 +34,10 @@
 - Platform
   - AWS Lambda
 
+## My Projects 👨‍💻
+
+> Please check [PROJECTS.md](https://github.com/ddarkr/ddarkr/blob/master/PROJECTS.md)!
+
 ## Check my activity 🤨
 
 GitHub:
