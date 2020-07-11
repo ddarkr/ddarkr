@@ -13,7 +13,9 @@
 ## Technical stacks 🍱
 
 - Language
-  - 
+  - TypeScript (JavaScript)
+  - PHP
+  - Python 3
 - Frontend
   - React
   - Vue.js
