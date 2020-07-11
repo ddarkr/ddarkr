@@ -37,9 +37,3 @@
 ## My Projects 👨‍💻
 
 > Please check [PROJECTS.md](https://github.com/ddarkr/ddarkr/blob/master/PROJECTS.md)!
-
-## Check my activity 🤨
-
-GitHub:
-
-[![ddarkr's GitHub activity](https://ghchart.rshah.org/ddarkr)](https://github.com/ddarkr)
