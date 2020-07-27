@@ -1,5 +1,3 @@
-![HitCount](http://hits.dwyl.com/ddarkr/ddarkr.svg)
-
 ![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=ddarkr&count_private=true)
 
 ![My GitHub top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkr)
