@@ -1,39 +1,21 @@
-### 정도현 (Dohyun Jung)
-- 🎓 고등학생 (인창고등학교 재학중)
-- 🌐 웹 개발자 지망생
+![HitCount](http://hits.dwyl.com/ddarkr/ddarkr.svg)
 
-## Get in touch 👈
+![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=ddarkr&count_private=true)
 
-- <img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub Logo" width="18"/> GitHub: [ddarkr](https://github.com/ddarkr)
-- <img src="https://assets.gitlab-static.net/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" alt="GitLab Logo" width="17"> GitLab: [ddark](https://gitlab.com/ddark)
-- 📧 Mail: ddark.kr@gmail.com
-- <img src="https://cdn.velog.io/favicons/favicon-32x32.png" alt="Velog Logo" width="18"> velog: [@ddark](https://velog.io/@ddark)
-- <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/android-icon-128x128-ac6d217579b9ef3362ffec87f96de83148f80c5b5b06e06df6506b7606e7e2b6.png" alt="dev.to Logo" width="17" /> dev.to: [ddark](https://dev.to/ddark)
+![My GitHub top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkr)
 
-## Technical stacks 🍱
+## techincal 🔩
 
-- Language
-  - TypeScript (JavaScript)
-  - PHP
-  - Python 3
-- Frontend
-  - React
-  - Vue.js
-- Back-end
-  - Laravel
-  - CodeIgniter 3
-  - CakePHP
-- DBMS
-  - MariaDB (MySQL)
-  - MongoDB
-  - AWS DynamoDB
-- Server
-  - Ubuntu
-  - Apache
-  - Nginx
-- Platform
-  - AWS Lambda
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="48" height="48" alt="Vue.js" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" height="48" alt="Linux" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" height="48" alt="PHP" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/sass/sass.png" width="48" height="48" alt="Sass/Scss" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/typescript/typescript.png" width="48" height="48" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="48" height="48" alt="Webpack" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png" width="48" height="48" alt="Python 3" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="48" height="48" alt="Progressive Web App" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="48" height="48" alt="ESLint" /> <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" width="48" height="48" alt="Prettier" />
 
-## My Projects 👨‍💻
+## get in touch 🤝
 
-> Please check [PROJECTS.md](https://github.com/ddarkr/ddarkr/blob/master/PROJECTS.md)!
+```
+- E-mail: doda@hideaddress.net
+- GitHub: ddarkr
+- GitLab: ddark
+```
+
+## portfolio 📚
+
+[click here](https://github.com/ddarkr/ddarkr/blob/master/PROJECTS.md)
