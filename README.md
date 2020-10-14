@@ -4,9 +4,9 @@
 
 ## statistics 📊
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ddarkr&count_private=true&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkr&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ddarkr&count_private=true&hide_border=true" width="495px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkr&hide_border=true" width="300px" /> |
 | :--: | :--: |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ddark&hide_border=true" /> | |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ddark&hide_border=true" width="495px" /> | |
 
 ## get in touch 🤝
 
