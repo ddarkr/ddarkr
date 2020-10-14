@@ -25,4 +25,3 @@
 ----
 
 ![](https://img.shields.io/github/last-commit/ddarkr/ddarkr?label=updated%20%20&style=flat-square)
-![HitCount](http://hits.dwyl.com/ddarkr/ddarkr.svg)
