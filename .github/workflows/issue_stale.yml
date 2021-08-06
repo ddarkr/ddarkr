@@ -1,0 +1,19 @@
+name: 'Stale handler'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@main
+        id: stale
+        with:
+          stale-issue-message: 'ℹ️ 해당 이슈는 3일 간 활동이 없었습니다. 더 이상의 활동이 없다면, 1일 후에 자동으로 이슈가 닫힙니다.'
+          days-before-stale: 3
+          days-before-close: 1
+          exempt-issue-labels: 'keep'
+      - name: Print outputs
+        run: echo ${{ join(steps.stale.outputs.*, ',') }}
