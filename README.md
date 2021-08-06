@@ -1,27 +1,31 @@
-## techincal 🔩
+<h1 align="center">hello, i'm doda. 👋</h1>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="48" height="48" alt="Vue.js" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" height="48" alt="Linux" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" height="48" alt="PHP" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/sass/sass.png" width="48" height="48" alt="Sass/Scss" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/typescript/typescript.png" width="48" height="48" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="48" height="48" alt="Webpack" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" /> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png" width="48" height="48" alt="Python 3" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="48" height="48" alt="Progressive Web App" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="48" height="48" alt="ESLint" /> <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" width="48" height="48" alt="Prettier" /> <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="48" height="48" alt="Laravel" />
+<p align="center">
+  <a href="mailto:me@doda.dev"><img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" /></a> <a href="https://resume.doda.dev"><img src="https://shields.io/badge/-RESUME-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=fff&labelColor=333" /></a> <a href="https://github.com/ddarkr"><img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" /></a> <a href="https://gitlab.com/ddark"><img src="https://shields.io/badge/-Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=fff&labelColor=333" /></a>
+</p>
 
-## statistics 📊
+<p align="center">My real name is <b><code>Dohyun Jung</code></b> I live in <code>🇰🇷 South Korea</code>.</p>
 
-<table><tr><th><img src="https://github-readme-stats.vercel.app/api?username=ddarkr&count_private=true&hide_border=true" width="495px" /></th></tr></table>
+<p align="center">I'm Fullstack developer. but I'm more interested in frontend ✨.</p>
 
-<table><tr><th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkr&hide_border=true" width="300px" /></th></tr></table>
+<h2></h2>
 
-<table><tr><th><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ddark&hide_border=true" width="495px" /></th></tr></table>
+### I've been working on projects using these things:
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white" /> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/-webpack-2b3a42?style=flat-square&logo=webpack&logoColor=8DD6F9" /> <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
 
-## get in touch 🤝
+### Things like my friends:
 
-```
-- E-mail: doda@hideaddress.net
-- GitHub: ddarkr
-- GitLab: ddark
-```
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-macOS-000?style=flat-square&logo=Apple&logoColor=white" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> <img src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=Vercel&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff" /> <img src="https://img.shields.io/badge/-Authy-EC1C24?style=flat-square&logo=Authy&logoColor=white" /> <img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=Bitwarden&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
-## portfolio 📚
+### My activities:
 
-[click here](https://github.com/ddarkr/ddarkr/blob/master/PROJECTS.md)
+<table><tr><th><img src="https://github.com/ddarkr/ddarkr-futures/blob/master/metrics/metrics.plugin.lines.svg" /></th></tr></table>
 
-----
+<table><tr><th><img src="https://github.com/ddarkr/ddarkr-futures/blob/master/metrics/metrics.plugin.wakatime.svg" /></th></tr></table>
 
-![](https://img.shields.io/github/last-commit/ddarkr/ddarkr?label=updated%20%20&style=flat-square)
+<table><tr><th><img src="https://github.com/ddarkr/ddarkr-futures/blob/master/metrics/metrics.plugin.habits.charts.svg" /></th></tr></table>
+
+<table><tr><th><img src="https://github.com/ddarkr/ddarkr-futures/blob/master/metrics/metrics.plugin.languages.details.svg" /></th></tr></table>
+
+### Well, I like to listen to music:
+![Spotify Recently Played List](https://spotify-recently-played-readme.vercel.app/api?user=xlt1ncei1ix3gtzh2jetkfkrh&count=3)
