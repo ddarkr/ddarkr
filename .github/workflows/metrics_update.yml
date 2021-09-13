@@ -42,7 +42,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
           plugin_wakatime_url: https://waka.doda.dev
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: doda
           output_action: pull-request
           delay: 120
       - name: 🈷️ Languages plugin (recently used)
