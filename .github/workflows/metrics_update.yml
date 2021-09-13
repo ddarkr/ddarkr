@@ -37,12 +37,12 @@ jobs:
           filename: metrics/metrics.plugin.wakatime.svg
           token: NOT_NEEDED
           plugin_wakatime: yes
-          plugin_wakatime_url: https://waka.doda.dev
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
-          plugin_wakatime_user: doda
+          plugin_wakatime_url: https://waka.doda.dev
+          plugin_wakatime_user: .user.login
           output_action: pull-request
           delay: 120
       - name: 🈷️ Languages plugin (recently used)
