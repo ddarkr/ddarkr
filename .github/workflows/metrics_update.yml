@@ -37,7 +37,6 @@ jobs:
           filename: metrics/metrics.plugin.wakatime.svg
           token: NOT_NEEDED
           plugin_wakatime: yes
-          plugin_wakatime_url: https://waka.doda.dev
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           output_action: pull-request
