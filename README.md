@@ -1,7 +1,7 @@
 <h1 align="center">hello, i'm doda. 👋</h1>
 
 <p align="center">
-  <a href="mailto:me@doda.dev"><img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" /></a> <a href="https://resume.doda.dev"><img src="https://shields.io/badge/-RESUME-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=fff&labelColor=333" /></a> <a href="https://github.com/ddarkr"><img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" /></a> <a href="https://gitlab.com/ddark"><img src="https://shields.io/badge/-Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=fff&labelColor=333" /></a>
+  <a href="mailto:me@doda.dev"><img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" /></a> <a href="https://github.com/ddarkr"><img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" /></a> <a href="https://gitlab.com/ddark"><img src="https://shields.io/badge/-Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=fff&labelColor=333" /></a>
 </p>
 
 <p align="center">My real name is <b><code>Dohyun Jung</code></b> I live in <code>🇰🇷 South Korea</code>.</p>
