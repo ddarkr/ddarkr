@@ -20,10 +20,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.21401997298284" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="365.21401997298284" y="0" width="89.47925462931033" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.6932746022932" y="0" width="2.6615615943244797" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="457.3548361966176" y="0" width="2.645163803382318" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.83655373537823" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="357.83655373537823" y="0" width="97.41527649662157" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.2518302319998" y="0" width="2.3948015246592598" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.6466317566591" y="0" width="2.353368243340928" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,20 +35,20 @@
                                 PHP
                             </div>
                             <small>
-                                <div>23.5 MB</div>
-                                <div>79.39%</div>
+                                <div>25.4 MB</div>
+                                <div>77.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Vue
                             </div>
                             <small>
-                                <div>171 kB</div>
-                                <div>0.58%</div>
+                                <div>170 kB</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                     </section>
@@ -61,20 +61,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.77 MB</div>
-                                <div>19.45%</div>
+                                <div>6.94 MB</div>
+                                <div>21.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                TypeScript
                             </div>
                             <small>
-                                <div>170 kB</div>
-                                <div>0.58%</div>
+                                <div>167 kB</div>
+                                <div>0.51%</div>
                             </small>
                         </div>
                     </section>
