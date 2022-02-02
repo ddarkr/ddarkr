@@ -26,6 +26,3 @@
 <table><tr><th><img src="https://github.com/ddarkr/ddarkr/blob/master/metrics/metrics.plugin.habits.charts.svg" /></th></tr></table>
 
 <table><tr><th><img src="https://github.com/ddarkr/ddarkr/blob/master/metrics/metrics.plugin.languages.details.svg" /></th></tr></table>
-
-### Well, I like to listen to music:
-![Spotify Recently Played List](https://spotify-recently-played-readme.vercel.app/api?user=31vnqm7zkepf6xzerr77kyj45lym&count=3)
