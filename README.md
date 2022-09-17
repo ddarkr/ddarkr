@@ -6,7 +6,7 @@
 
 <p align="center">My real name is <b><code>Dohyun Jung</code></b> I live in <code>🇰🇷 South Korea</code>.</p>
 
-<p align="center">I'm Fullstack developer. but I'm more interested in frontend ✨.</p>
+<p align="center">I'm a full-stack developer. but more interested in frontend ✨.</p>
 
 <h2></h2>
 
