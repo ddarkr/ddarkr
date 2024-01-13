@@ -28,7 +28,7 @@
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=Chakra-UI&logoColor=white)
 ![Kuma UI](https://img.shields.io/badge/Kuma_UI-9DC4F1?style=flat-square&label=🐻&labelColor=9DC4F1)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-FFC618?style=flat-square&logo=pnpm&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=Nx&logoColor=white)
@@ -37,8 +37,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Caddy 2](https://img.shields.io/badge/Caddy_2-00AEFF?style=flat-square&logo=Caddy&logoColor=white)
-
 
 ### Some friends are a little forgotten:
 
@@ -52,7 +50,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
@@ -63,10 +60,11 @@
 
 ### And there are other friends, too:
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Caddy 2](https://img.shields.io/badge/Caddy_2-00AEFF?style=flat-square&logo=Caddy&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=Apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![iPhone](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=Apple&logoColor=white)
@@ -86,6 +84,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr)
+![PlanetScale](https://img.shields.io/badge/PlanetScale-3A416F?style=flat-square&logo=planetscale&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
