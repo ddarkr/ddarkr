@@ -250,13 +250,13 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API error: 502</div>
+                        <div class="field error">API error: 504</div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2025, 12:44:48 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2025, 13:20:05 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
