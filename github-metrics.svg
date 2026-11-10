@@ -128,7 +128,7 @@
 <dt>Sponsors</dt><dd>0</dd>
 <dt>Preferred license</dt><dd>MIT</dd>
 
-<dt>Lines changed</dt><dd><span class="diff">+2.74m</span> <span class="deleted">-741k</span></dd>
+<dt>Lines changed</dt><dd><span class="diff">+9.18m</span> <span class="deleted">-2.29m</span></dd>
 
 </dl></div>
 </section>
@@ -182,7 +182,7 @@
 
 <dl class="terminal-kv">
 <dt>Indentation</dt><dd>spaces</dd>
-<dt>Average line</dt><dd>42.1 characters</dd>
+<dt>Average line</dt><dd>41.6 characters</dd>
 <dt>Typical push time</dt><dd>11:00</dd>
 <dt>Most active day</dt><dd>Tuesday</dd>
 </dl>
@@ -251,7 +251,7 @@
 </tbody>
 </table>
 
-<h3>Recent languages</h3><table class="tui-table tui-table--habits-languages"><thead><tr><th scope="col">Language</th><th scope="col" class="tui-number">Share</th><th scope="col">Distribution</th></tr></thead><tbody><tr><th scope="row">TypeScript</th><td class="tui-number">19.46%</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr><tr><th scope="row">TSX</th><td class="tui-number">19.03%</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr><tr><th scope="row">JavaScript</th><td class="tui-number">9.44%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">Swift</th><td class="tui-number">9.37%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">Python</th><td class="tui-number">7.73%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">CSS</th><td class="tui-number">0.76%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">RenderScript</th><td class="tui-number">0.6%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">Go</th><td class="tui-number">0.57%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr></tbody></table></div>
+<h3>Recent languages</h3><table class="tui-table tui-table--habits-languages"><thead><tr><th scope="col">Language</th><th scope="col" class="tui-number">Share</th><th scope="col">Distribution</th></tr></thead><tbody><tr><th scope="row">TypeScript</th><td class="tui-number">31.11%</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr><tr><th scope="row">TSX</th><td class="tui-number">15.86%</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr><tr><th scope="row">Swift</th><td class="tui-number">8.64%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">JavaScript</th><td class="tui-number">7.68%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">Python</th><td class="tui-number">4.25%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">Go</th><td class="tui-number">0.86%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">CSS</th><td class="tui-number">0.59%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">RenderScript</th><td class="tui-number">0.29%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr></tbody></table></div>
 </section>
 
 
@@ -271,7 +271,7 @@
  ~/ddarkr</span></div>
   <h2 id="block-languages" class="block-command"><span class="prompt-chevron" aria-hidden="true">❯</span><svg xmlns="http://www.w3.org/2000/svg" class="prompt-icon" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="#terminal-icon-code"/></svg>
 <span class="command-name">metrics</span> <span class="command-argument">languages</span><span class="section-label">Languages</span></h2>
-  <div class="terminal-output"><p>32 unique languages</p>
+  <div class="terminal-output"><p>35 unique languages</p>
 
 <h3>Most used</h3>
 
@@ -452,7 +452,7 @@
 
         <div class="input-line"><span class="prompt-chevron">❯</span><span class="terminal-cursor"></span></div>
       </div>
-      <footer>Generated 10 Nov 2026, 03:00:27</footer>
+      <footer>Generated 10 Nov 2026, 10:04:00</footer>
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
   </foreignObject>
