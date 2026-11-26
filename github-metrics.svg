@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2463" class="metrics-terminal theme-warp-dark density-comfortable show-dividers" role="img" aria-labelledby="report-title" viewBox="0 0 480 2463">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2441" class="metrics-terminal theme-warp-dark density-comfortable show-dividers" role="img" aria-labelledby="report-title" viewBox="0 0 480 2441">
   <title id="report-title">Metrics report for Dohyun Jung</title>
   <defs><style>@font-face {
   font-family: 'SF Mono';
@@ -91,7 +91,7 @@
 <span class="command-name">metrics</span> <span class="command-argument">activity community</span><span class="section-label">Activity and community</span></h2>
   <div class="terminal-output"><h3>Recent activity</h3>
 <dl class="terminal-kv">
-<dt>Commits</dt><dd>5739</dd>
+<dt>Commits</dt><dd>5757</dd>
 <dt>PRs reviewed</dt><dd>234</dd>
 <dt>PRs opened</dt><dd>1228</dd>
 <dt>Issues opened</dt><dd>410</dd>
@@ -128,7 +128,7 @@
 <dt>Sponsors</dt><dd>0</dd>
 <dt>Preferred license</dt><dd>MIT</dd>
 
-<dt>Lines changed</dt><dd><span class="diff">+8.78m</span> <span class="deleted">-2.17m</span></dd>
+<dt>Lines changed</dt><dd><span class="diff">+8.62m</span> <span class="deleted">-2.11m</span></dd>
 
 </dl></div>
 </section>
@@ -182,7 +182,7 @@
 
 <dl class="terminal-kv">
 <dt>Indentation</dt><dd>spaces</dd>
-<dt>Average line</dt><dd>35.8 characters</dd>
+<dt>Average line</dt><dd>35.5 characters</dd>
 <dt>Typical push time</dt><dd>00:00</dd>
 <dt>Most active day</dt><dd>Tuesday</dd>
 </dl>
@@ -194,35 +194,33 @@
 <thead><tr><th scope="col">Hour</th><th scope="col" class="tui-number">Pushes</th><th scope="col">Relative to peak</th></tr></thead>
 <tbody>
 
-<tr><th scope="row">00:00</th><td class="tui-number">5</td><td><span class="tui-bar" aria-hidden="true"><span>██████████</span><span class="tui-bar-empty"></span></span></td></tr>
+<tr><th scope="row">00:00</th><td class="tui-number">7</td><td><span class="tui-bar" aria-hidden="true"><span>██████████</span><span class="tui-bar-empty"></span></span></td></tr>
 
-<tr><th scope="row">01:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">01:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">02:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">02:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">03:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">03:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">10:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">10:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">11:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">11:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">12:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">12:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">14:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">14:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">15:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">15:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">16:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">16:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">17:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">17:00</th><td class="tui-number">2</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">18:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
+<tr><th scope="row">18:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">19:00</th><td class="tui-number">3</td><td><span class="tui-bar" aria-hidden="true"><span>██████</span><span class="tui-bar-empty">░░░░</span></span></td></tr>
+<tr><th scope="row">22:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr>
 
-<tr><th scope="row">22:00</th><td class="tui-number">1</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr>
-
-<tr><th scope="row">23:00</th><td class="tui-number">3</td><td><span class="tui-bar" aria-hidden="true"><span>██████</span><span class="tui-bar-empty">░░░░</span></span></td></tr>
+<tr><th scope="row">23:00</th><td class="tui-number">3</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
 
 </tbody>
 </table>
@@ -238,14 +236,14 @@
 
 <tr><th scope="row">Tuesday</th><td class="tui-number">11</td><td><span class="tui-bar" aria-hidden="true"><span>██████████</span><span class="tui-bar-empty"></span></span></td></tr>
 
-<tr><th scope="row">Wednesday</th><td class="tui-number">4</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">Wednesday</th><td class="tui-number">5</td><td><span class="tui-bar" aria-hidden="true"><span>█████</span><span class="tui-bar-empty">░░░░░</span></span></td></tr>
 
-<tr><th scope="row">Thursday</th><td class="tui-number">4</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr>
+<tr><th scope="row">Thursday</th><td class="tui-number">3</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr>
 
 </tbody>
 </table>
 
-<h3>Recent languages</h3><table class="tui-table tui-table--habits-languages"><thead><tr><th scope="col">Language</th><th scope="col" class="tui-number">Share</th><th scope="col">Distribution</th></tr></thead><tbody><tr><th scope="row">TSX</th><td class="tui-number">36.19%</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr><tr><th scope="row">TypeScript</th><td class="tui-number">25.74%</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr><tr><th scope="row">Go</th><td class="tui-number">15.26%</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr><tr><th scope="row">Python</th><td class="tui-number">6.69%</td><td><span class="tui-bar" aria-hidden="true"><span>█</span><span class="tui-bar-empty">░░░░░░░░░</span></span></td></tr><tr><th scope="row">JavaScript</th><td class="tui-number">2.28%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">Shell</th><td class="tui-number">0.45%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">CSS</th><td class="tui-number">0.16%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">HTML</th><td class="tui-number">0.07%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr></tbody></table></div>
+<h3>Recent languages</h3><table class="tui-table tui-table--habits-languages"><thead><tr><th scope="col">Language</th><th scope="col" class="tui-number">Share</th><th scope="col">Distribution</th></tr></thead><tbody><tr><th scope="row">TSX</th><td class="tui-number">38.01%</td><td><span class="tui-bar" aria-hidden="true"><span>████</span><span class="tui-bar-empty">░░░░░░</span></span></td></tr><tr><th scope="row">TypeScript</th><td class="tui-number">27.03%</td><td><span class="tui-bar" aria-hidden="true"><span>███</span><span class="tui-bar-empty">░░░░░░░</span></span></td></tr><tr><th scope="row">Go</th><td class="tui-number">16.02%</td><td><span class="tui-bar" aria-hidden="true"><span>██</span><span class="tui-bar-empty">░░░░░░░░</span></span></td></tr><tr><th scope="row">Python</th><td class="tui-number">4.26%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">JavaScript</th><td class="tui-number">2.4%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">Shell</th><td class="tui-number">0.47%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">CSS</th><td class="tui-number">0.17%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr><tr><th scope="row">HTML</th><td class="tui-number">0.07%</td><td><span class="tui-bar" aria-hidden="true"><span></span><span class="tui-bar-empty">░░░░░░░░░░</span></span></td></tr></tbody></table></div>
 </section>
 
 
@@ -446,7 +444,7 @@
 
         <div class="input-line"><span class="prompt-chevron">❯</span><span class="terminal-cursor"></span></div>
       </div>
-      <footer>Generated 26 Nov 2026, 14:55:07</footer>
+      <footer>Generated 27 Nov 2026, 01:02:50</footer>
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
   </foreignObject>
